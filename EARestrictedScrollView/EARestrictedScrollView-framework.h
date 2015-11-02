@@ -6,16 +6,10 @@
 //  Copyright © 2015年 Y.Inoue. All rights reserved.
 //
 
-#ifndef EARestrictedScrollView_framework_h
-#define EARestrictedScrollView_framework_h
-
-#import <UIKit/UIKit.h>
-
 //! Project version number for EARestrictedScrollView.
 FOUNDATION_EXPORT double EARestrictedScrollViewVersionNumber;
 
 //! Project version string for EARestrictedScrollView.
 FOUNDATION_EXPORT const unsigned char EARestrictedScrollViewVersionString[];
 
-
-#endif /* EARestrictedScrollView_framework_h */
+#import <EARestrictedScrollView/EARestrictedScrollView.h>
