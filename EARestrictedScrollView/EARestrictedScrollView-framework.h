@@ -11,10 +11,10 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for FlatUIColors.
+//! Project version number for EARestrictedScrollView.
 FOUNDATION_EXPORT double EARestrictedScrollViewVersionNumber;
 
-//! Project version string for FlatUIColors.
+//! Project version string for EARestrictedScrollView.
 FOUNDATION_EXPORT const unsigned char EARestrictedScrollViewVersionString[];
 
 
